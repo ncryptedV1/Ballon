@@ -1,0 +1,9 @@
+name: Ballon
+version: 1.0
+author: ncrypted
+main: de.ncrypted.ballon.main.Main
+
+commands:
+  ballon:
+    description: Spawnt einen Ballon
+    usage: </ballon>
